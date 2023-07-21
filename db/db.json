@@ -1,22 +1,10 @@
 {
   "dados": [
     {
-      "id": 1,
-      "titulo": "Estudar Vue",
-      "descricao": "Estudar sobre componentes do Vue",
-      "status": false
-    },
-    {
-      "id": 2,
-      "titulo": "Estudar json",
-      "descricao": "Estudar sobre estrutura do json",
-      "status": false
-    },
-    {
-      "titulo": "Testar a aplicação",
-      "descricao": "Verificar se está funcionando todas as funções",
+      "titulo": "Testar aplicação",
+      "descricao": "Verificar se todas as funções estão funcionando",
       "status": false,
-      "id": 3
+      "id": 1
     }
   ]
 }
